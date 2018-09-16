@@ -1,10 +1,11 @@
 # html-me-something
 <html>
 <head> 
-  <title>One of my favorite places to travel to is New Orleans </title>
+  <title>One of my favorite places to travel to is New Orleans </title> </head>
+  <br>
+  <br>
   <header> New Orleans is a Louisiana city on the Mississippi River, near the Gulf of Mexico. Nicknamed the "Big Easy," it's    known for its round-the-clock nightlife, vibrant live-music scene and spicy, singular cuisine reflecting its history as a   melting pot of French, African and American cultures.
   </header>
-  </head>
 <body>
 <main> New Orleans offers many things to do, wonderful food, and fun events year round!<br>
 </main>
