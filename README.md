@@ -6,11 +6,12 @@
   <br>
   <header> New Orleans is a Louisiana city on the Mississippi River, near the Gulf of Mexico. Nicknamed the "Big Easy," it's    known for its round-the-clock nightlife, vibrant live-music scene and spicy, singular cuisine reflecting its history as a   melting pot of French, African and American cultures.
   </header>
-<body>
-<main> New Orleans offers many things to do, wonderful food, and fun events year round!<br>
-</main>
-  
-<p>From streetcar rides to visiting parks and churches, there are tons of options for fun and frolicking around New Orleans. You can spend the day in one of the many lovely parks, hit up some jazz clubs, meander through a cemetery, or just stroll through the neighborhoods looking at the beautiful architecture. There is history to be found around every corner and fun to be had in a relaxing way at numerous delightful attractions. 
+  <br>
+  <br>
+<main> New Orleans offers many things to do, wonderful food, and fun events year round!</main>
+  <br>
+<body> 
+<p>From streetcar rides to visiting parks and churches, there are tons of options for fun and frolicking around New Orleans.  You can spend the day in one of the many lovely parks, hit up some jazz clubs, meander through a cemetery, or just stroll through the neighborhoods looking at the beautiful architecture. There is history to be found around every corner and fun to be had in a relaxing way at numerous delightful attractions. 
 <img src="tipitinas.jpg" alt=“New Orleans attractions">
 </p>
 
